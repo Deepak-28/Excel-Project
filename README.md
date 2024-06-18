@@ -24,3 +24,7 @@ No installation required. Simply download the Excel file and open it in Microsof
 
 ## Acknowledgements
 - Special thanks to Alex the Analyst YouTube Channal.
+  
+## Channel Link
+
+- [Full Excel Project](https://youtu.be/opJgMj1IUrc?si=8aFmd0w7BwZCCWMv)
