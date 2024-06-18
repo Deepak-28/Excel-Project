@@ -16,7 +16,7 @@ The Bike Buyers is a simple Excel project aimed at helping you manage and track 
 3. Switch to the "dashboard" sheet to view dashboard and visualizations.
 
 ## Screenshots
-[Screenshot 2024-05-16 152132](https://github.com/Deepak-28/Excel-Project/assets/68704393/6a8ef3e8-0884-488a-8d67-2846a2af730a)
+[Screenshot 2024-05-16 152132](Excel Project/screenshots/dashboard.png)
 or images showcasing the Excel formulas, pivot tables, and visualizations.]
 
 ## Installation
